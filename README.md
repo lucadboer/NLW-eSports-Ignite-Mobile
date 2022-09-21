@@ -3,9 +3,9 @@
 
 <span align="center">
     <img height="500" src="./.github/home.png">
-    <p>---</p>
+    <span>---</span>
     <img height="500" src="./.github/game.png">
-    <p>---</p>
+    <span>---</span>
     <img height="500" src="./.github/discord.png">
 </span>
 
