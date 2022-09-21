@@ -2,9 +2,9 @@
 # NLW eSports
 
 <span align="center">
-    <img height="300" src="./.github/home.png">
-    <img height="300" src="./.github/game.png">
-    <img height="300" src="./.github/discord.png">
+    <img height="500" src="./.github/home.png">
+    <img height="500" src="./.github/game.png">
+    <img height="500" src="./.github/discord.png">
 </span>
 
 <br>
